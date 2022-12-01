@@ -66,7 +66,7 @@ class LeftSideBar extends React.Component {
               userSelect: "none",
             }}
           >
-            cell
+            paracell
             <span
               style={{
                 position: "relative",
